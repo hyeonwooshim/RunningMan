@@ -1,8 +1,8 @@
 {
   "name": "Running Man",
   "description": "Running Man app for 2017 YG lock-in",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
-  "keywords": ["node", "express", "heroku"],
-  "image": "heroku/nodejs"
+  "repository": "https://github.com/hyeonwooshim/RunningMan.git",
+  "logo": "",
+  "keywords": ["node", "express", "runningman"],
+  "image": ""
 }
